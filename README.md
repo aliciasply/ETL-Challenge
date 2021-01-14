@@ -10,8 +10,8 @@
 
 ### Project Description:
 
-(1) Extracting data from scraping all three websites
-* I scraped realreal.com and find the product id, watch brand, watch model, watch price and the link directly link to the website.
+(1) Extracting data from scraping all three websites .\
+* I scraped realreal.com and find the product id, watch brand, watch model, watch price and the link directly link to the website.\
 (2) Transforming the data
 * Converted the data into a dataframe, followed by cleaning up the data by changing its data type and removed any unncessary symbols from the dataframe.
 (3) Loading the data into the database 
